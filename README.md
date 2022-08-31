@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-using-grid-ZZ5MA_XP1z)
+- Live Site URL: [Live](https://huddle-landing-page-with-a-single-introductory-section-liard.vercel.app/)
 
 ## My process
 
